@@ -7,7 +7,7 @@
    現状：
    meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1"
    ↑ipad崩れ　iphone5余白が出る
-   
+
    変更：
    https://www.his-j.com/kokunai/kanto/js_common/viewport.js      追加
    https://www.his-j.com/kokunai/special/common/js/responsive.js  追加
