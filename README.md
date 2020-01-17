@@ -5,7 +5,7 @@
 
 2.viewport 
    現状：
-   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+   meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1"
    ↑ipad崩れ　iphone5余白が出る
    
    変更：
@@ -18,7 +18,7 @@
    <meta itemprop="position" content="">
    ↑削除
 
-4.<h1 class="mv__title">　⇒　<h2 class="mv__title">
+4.h1 class="mv__title"　⇒　h2 class="mv__title"
 
 5.地域タブ切り替え　追加
   kokunai_change.js
